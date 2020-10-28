@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Store\\store.Domain\\store.Domain.csproj": {}
+    "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.domain\\store.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Store\\store.Domain\\store.Domain.csproj": {
+    "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.domain\\store.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Store\\store.Domain\\store.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.domain\\store.Domain.csproj",
         "projectName": "store.Domain",
-        "projectPath": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Store\\store.Domain\\store.Domain.csproj",
-        "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Store\\store.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.domain\\store.Domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario027\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario027\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,6 +38,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[*, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -55,7 +59,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
