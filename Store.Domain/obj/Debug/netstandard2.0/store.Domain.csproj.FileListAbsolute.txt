@@ -1,0 +1,4 @@
+C:\Users\Victor\Documents\Projetos\Estudo\C#\Api 3\store.domain\obj\Debug\netstandard2.0\store.Domain.csprojAssemblyReference.cache
+C:\Users\Victor\Documents\Projetos\Estudo\C#\Api 3\store.domain\obj\Debug\netstandard2.0\store.Domain.AssemblyInfoInputs.cache
+C:\Users\Victor\Documents\Projetos\Estudo\C#\Api 3\store.domain\obj\Debug\netstandard2.0\store.Domain.AssemblyInfo.cs
+C:\Users\Victor\Documents\Projetos\Estudo\C#\Api 3\store.domain\obj\Debug\netstandard2.0\store.Domain.csproj.CoreCompileInputs.cache

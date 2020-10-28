@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using Flunt.Validations;
 using store.Domain.Enums;
 
 namespace store.Domain.Entities
@@ -8,6 +9,10 @@ namespace store.Domain.Entities
     {
         public Order(Custumer custumer, decimal deliveryFree, Discount discount)
         {
+            AddNotifications(new Contract()
+                .Requires()
+                .IsNotNull(custumer, "customer", "O customer não pode ser nulo")
+            );
             Custumer = custumer;
             Date = DateTime.Now;
             Number = Guid.NewGuid().ToString().Substring(0,8);
@@ -28,7 +33,8 @@ namespace store.Domain.Entities
         public void AddItem(Product product, int quantity)
         {
             var item = new OrderItem(product, quantity);
-            Items.Add(item);
+            if(item.Valid) //Item notifications
+                Items.Add(item);
         }
 
         public decimal Total()
