@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "g1KG4K6imvFDVHgAXSabDf5Oj6JtwdBY3w3Sn6aA+UewmCRydlYnIgojuADBhRBSC6gF+UmNPLP6OJCYd2VR2A==",
+  "dgSpecHash": "mXMr0tDBxTCxYoRWikg4lg8C+zcqWQsO4IPTvSGIbdOMU+V07vwORJwu+fI1Uwntt7dsv/ohNE5R8TYXyRQFRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.domain\\store.domain.csproj",
+  "projectFilePath": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.domain\\store.domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Usuario027\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
-    "C:\\Users\\Usuario027\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Usuario027\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Victor\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

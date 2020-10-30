@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.test\\store.test.csproj": {}
+    "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.test\\store.test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.domain\\store.domain.csproj": {
+    "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.domain\\store.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.domain\\store.domain.csproj",
+        "projectUniqueName": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.domain\\store.domain.csproj",
         "projectName": "store.domain",
-        "projectPath": "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.domain\\store.domain.csproj",
-        "packagesPath": "C:\\Users\\Usuario027\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.domain\\obj\\",
+        "projectPath": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.domain\\store.domain.csproj",
+        "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario027\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,21 +59,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.test\\store.test.csproj": {
+    "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.test\\store.test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.test\\store.test.csproj",
+        "projectUniqueName": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.test\\store.test.csproj",
         "projectName": "store.test",
-        "projectPath": "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.test\\store.test.csproj",
-        "packagesPath": "C:\\Users\\Usuario027\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.test\\obj\\",
+        "projectPath": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.test\\store.test.csproj",
+        "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario027\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,8 +86,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.domain\\store.domain.csproj": {
-                "projectPath": "C:\\Users\\Usuario027\\Desktop\\Projeto_Refatorando_Para_Testes_De_Unidade\\store.domain\\store.domain.csproj"
+              "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.domain\\store.domain.csproj": {
+                "projectPath": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.domain\\store.domain.csproj"
               }
             }
           }
@@ -133,7 +133,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

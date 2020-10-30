@@ -11,3 +11,8 @@ C:\Users\Usuario027\Desktop\Projeto_Refatorando_Para_Testes_De_Unidade\store.dom
 C:\Users\Usuario027\Desktop\Projeto_Refatorando_Para_Testes_De_Unidade\store.domain\obj\Debug\netstandard2.0\store.domain.csproj.CoreCompileInputs.cache
 C:\Users\Usuario027\Desktop\Projeto_Refatorando_Para_Testes_De_Unidade\store.domain\obj\Debug\netstandard2.0\store.domain.dll
 C:\Users\Usuario027\Desktop\Projeto_Refatorando_Para_Testes_De_Unidade\store.domain\obj\Debug\netstandard2.0\store.domain.pdb
+C:\Users\Victor\Documents\Projetos\Estudo\C#\Api 3\store.domain\bin\Debug\netstandard2.0\store.domain.deps.json
+C:\Users\Victor\Documents\Projetos\Estudo\C#\Api 3\store.domain\bin\Debug\netstandard2.0\store.domain.dll
+C:\Users\Victor\Documents\Projetos\Estudo\C#\Api 3\store.domain\bin\Debug\netstandard2.0\store.domain.pdb
+C:\Users\Victor\Documents\Projetos\Estudo\C#\Api 3\store.domain\obj\Debug\netstandard2.0\store.domain.dll
+C:\Users\Victor\Documents\Projetos\Estudo\C#\Api 3\store.domain\obj\Debug\netstandard2.0\store.domain.pdb
