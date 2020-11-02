@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.test\\store.test.csproj": {}
+    "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\Store.Test\\store.test.csproj": {}
   },
   "projects": {
     "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.domain\\store.domain.csproj": {
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.test\\store.test.csproj": {
+    "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\Store.Test\\store.test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.test\\store.test.csproj",
+        "projectUniqueName": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\Store.Test\\store.test.csproj",
         "projectName": "store.test",
-        "projectPath": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.test\\store.test.csproj",
+        "projectPath": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\Store.Test\\store.test.csproj",
         "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\store.test\\obj\\",
+        "outputPath": "C:\\Users\\Victor\\Documents\\Projetos\\Estudo\\C#\\Api 3\\Store.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
