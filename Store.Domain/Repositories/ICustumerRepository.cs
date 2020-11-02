@@ -4,6 +4,6 @@ namespace store.Domain.Repositories
 {
     public interface ICustumerRepository
     {
-        Custumer get(string document);
+        Custumer Get(string document);
     }
 }
